@@ -1,1 +1,1 @@
-<Add><file> "prufa.html"
+<Add><file><prufa>
